@@ -1,6 +1,4 @@
-ten = "Sinh vien"
-print("Xin chao,", ten)
-print("Day la chuong trinh Python dau tien cua toi.")
+
 #hoat dong 3.1: soi loi dat ten
 
 # 1diem: Sai - Bat dau bang chu so (sua: diem1)
