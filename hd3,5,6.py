@@ -1,6 +1,4 @@
-
 #hoat dong 3.1: soi loi dat ten
-
 # 1diem: Sai - Bat dau bang chu so (sua: diem1)
 # gia-tri: Sai - Chua dau gach ngang (sua: gia_tri)
 # _tam_thoi: Dung - Bat dau bang dau _ hop le
